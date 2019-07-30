@@ -1,3 +1,7 @@
+* Item
+* Item
+- Item
+- Item
 Bullet Points
 -If nothing breakable you can wrap the COD's as is
 --Ask customer if anything breakable
