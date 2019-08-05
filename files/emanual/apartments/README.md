@@ -7,3 +7,21 @@
 *  Rainy days floor runners
 *  Don't forget floor runners
 *  Circular stairs
+
+#### Apartment Moving Cleaning Up
+
+#### Apartment Moving Split Move Roommates
+* Labeling boxes for split moves
+* Organizing inventory for split moves (last in first out)
+* Billing for split moves
+
+#### Apartment Moving Stairs
+* Switchbacks
+* Straight shots
+* Circular stairs
+
+#### Moving Apartments Elevators
+* 2 phase moves (staging by elevators)
+* Use service elevator if possible
+* Is the elevator padded
+* Keeping elevators open/alarms
