@@ -9,6 +9,9 @@
 *  Circular stairs
 
 #### Apartment Moving Cleaning Up
+* Use your floor runners
+* Carpet Protector
+* Apartment moves in the rain
 
 #### Apartment Moving Split Move Roommates
 * Labeling boxes for split moves
